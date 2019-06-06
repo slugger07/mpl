@@ -1,0 +1,20 @@
+#container {height: 510px;width:100%; margin:0 auto; background-color: #EAF2F8;}
+#container h2 {text-align:center;padding-top:20px;}
+table {margin: 0px auto;border: 1px solid black;margin-top:50px;border-spacing:5px;border-collapse: collapse;}
+th,tr,td { width:120px;height:25px;border: 1px solid black;padding-left: 5px;}
+button {cursor:pointer; display:inline}
+#delete,#lisDownload {
+	height:30px;
+	margin-top:15px;	
+}
+
+
+#innerDiv {
+	position: fixed;
+    left: 64%;
+    margin-top: -20px;
+	display:inline;
+	padding:20px;'
+}
+
+button {cursor:pointer;}
